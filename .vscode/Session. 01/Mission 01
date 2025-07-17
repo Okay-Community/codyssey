@@ -18,4 +18,11 @@ exit
 
 
 print("Hello")
-##Hello 출력
+##내가 생각한 Hello 출력
+
+
+def hello():
+    return "Hello"
+
+print(hello)
+##함수 hello 정의 및 Hello 반환
